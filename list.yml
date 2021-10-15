@@ -20,3 +20,7 @@ fools:
     year: 2013
     proofs:
       - https://www.golem.de/news/gstool-bsi-bedroht-sicherheitsforscher-1309-101531.html
+  - name: Bla
+    year: 2021
+    proofs:
+      - bla
