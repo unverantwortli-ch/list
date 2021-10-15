@@ -12,3 +12,7 @@ fools:
     year: 2018
     proofs:
       - https://www.heise.de/newsticker/meldung/Offenlegung-von-Softwareluecken-Rechtsstreit-endet-mit-Vergleich-4156393.html
+  - name: FireEye
+    year: 2015
+    proofs:
+      - https://www.golem.de/news/einstweilige-verfuegung-fireeye-geht-juristisch-gegen-sicherheitsforscher-vor-1509-116346.html
