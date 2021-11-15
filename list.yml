@@ -19,6 +19,10 @@ fools:
     year: 2018
     proofs:
       - https://www.heise.de/newsticker/meldung/Offenlegung-von-Softwareluecken-Rechtsstreit-endet-mit-Vergleich-4156393.html
+  - name: Posteo.de
+    year: 2018
+    proofs:
+      - https://www.privacy-handbuch.de/diskussion.htm#31_05_18
   - name: FireEye
     year: 2015
     proofs:
