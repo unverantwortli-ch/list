@@ -1,4 +1,10 @@
 fools:
+  - name: Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz
+    year: 2022
+    proofs:
+      - https://epicenter.works/content/massive-sicherheitsluecke-in-oesterreich-testetat-aufgedeckt-gesundheitsministerium
+      - https://www.derstandard.at/story/2000132511790/oesterreich-testet-sicherheitsluecke-bot-theoretisch-zugriff-auf-private-daten-hunderttausender
+      - https://www.krone.at/2602188
   - name: CDU
     year: 2021
     proofs:
