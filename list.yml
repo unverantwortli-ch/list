@@ -1,16 +1,19 @@
 fools:
   - name: Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz
     year: 2022
+    country: AT
     proofs:
       - https://epicenter.works/content/massive-sicherheitsluecke-in-oesterreich-testetat-aufgedeckt-gesundheitsministerium
       - https://www.derstandard.at/story/2000132511790/oesterreich-testet-sicherheitsluecke-bot-theoretisch-zugriff-auf-private-daten-hunderttausender
       - https://www.krone.at/2602188
   - name: CDU
     year: 2021
+    country: DE
     proofs:
       - https://www.ccc.de/de/updates/2021/ccc-meldet-keine-sicherheitslucken-mehr-an-cdu
   - name: Modern Solution GmbH & Co. KG
     year: 2021
+    country: DE
     proofs:
       - https://www.golem.de/news/nach-datenleck-hausdurchsuchung-statt-dankeschoen-2110-160269.html
       - https://basic-tutorials.de/news/modern-solution-hausdurchsuchung-bei-programmierer-der-datenleck-fand/
@@ -19,29 +22,36 @@ fools:
       - https://www.heise.de/news/Datenleck-Anzeige-gegen-IT-Experte-kam-von-Modern-Solution-6254839.html
   - name: Missouri Governor Mike Parson (USA)
     year: 2021
+    country: US
     proofs:
       - https://krebsonsecurity.com/2021/10/missouri-governor-vows-to-prosecute-st-louis-post-dispatch-for-reporting-security-vulnerability/
   - name: Promon AG
     year: 2018
+    country: DE
     proofs:
       - https://www.heise.de/newsticker/meldung/Offenlegung-von-Softwareluecken-Rechtsstreit-endet-mit-Vergleich-4156393.html
   - name: Posteo.de
     year: 2018
+    country: DE
     proofs:
       - https://www.privacy-handbuch.de/diskussion.htm#31_05_18
   - name: FireEye
     year: 2015
+    country: DE
     proofs:
       - https://www.golem.de/news/einstweilige-verfuegung-fireeye-geht-juristisch-gegen-sicherheitsforscher-vor-1509-116346.html
   - name: Impero Solutions Ltd.
     year: 2015
+    country: GB
     proofs:
       - https://www.theregister.com/2015/07/16/school_software_firm_calls_in_lawyers_after_researcher_goes_full_disclosure
   - name: Bundesamt für Sicherheit in der Informationstechnik
     year: 2013
+    country: DE
     proofs:
       - https://www.golem.de/news/gstool-bsi-bedroht-sicherheitsforscher-1309-101531.html
   - name: Volkswagen AG
     year: 2013
+    country: DE
     proofs:
       - https://www.zeit.de/digital/datenschutz/2013-07/megamos-volkswagen-wegfahrsperre-hack
