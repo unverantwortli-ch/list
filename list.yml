@@ -1,4 +1,9 @@
 fools:
+  - name: Beatclub
+    year: 2022
+    country: US
+    proofs:
+      - https://www.golem.de/news/nach-datenleck-softwareentwickler-durch-privatdetektiv-bedroht-2210-168660.html
   - name: Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz
     year: 2022
     country: AT
