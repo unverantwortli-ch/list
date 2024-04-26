@@ -1,4 +1,9 @@
 fools:
+  - name: Koelnmesse GmbH
+    year: 2024
+    country: DE
+    proofs:
+      - https://twitter.com/apex_1337/status/1783838417731850408
   - name: Beatclub
     year: 2022
     country: US
